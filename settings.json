@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "yo hohooo yo ho hoooo",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ramz-network.aternos.me",
+    "port": 41755,
     "version": "",
     "try-creative": false
   },
@@ -45,7 +45,7 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 30,
       "speed": 3000
     },
     "look-around": {
